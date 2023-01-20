@@ -1,0 +1,13 @@
+.button {
+    /*-fx-background-color: linear-gradient(to top,#4b6cb7, #182848);*/
+    -fx-background-color: #08c227;
+    -fx-font-size: 12;
+    -fx-text-fill: white;
+    -fx-background-radius: 10;
+}
+
+.button:hover{
+    -fx-background-color: #5ed052;
+    -fx-font-size: 12;
+    -fx-text-fill: white;
+}
